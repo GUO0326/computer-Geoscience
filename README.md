@@ -1,1 +1,2 @@
-# computer-Geoscience
+Code for Computer&Geoscience submissions, but we are sorry that we will not publish some of the important module code for adaptive health of interval type 2 until the article is accepted. That is to say, we can't give the file: changeaivt2fcm. m.
+However, it is still guaranteed that the provided code can run successfully in the 2014 version of Matlab so as to obtain the image segmentation results.# computer-Geoscience
